@@ -56,4 +56,4 @@ The world of Competitive Programming is vast, and you may find that one day, you
 
 If you've followed along till this point, you're in a good position as a new competitive programmer.  Congratulations! 🎉
 
-Continue giving contests and learning new concepts, and you'll be well on your way to that beautiful  🔴 red 🔴 rating on CodeForces. If you want more resources, [this awesome list](https://github.com/lnishan/awesome-competitive-programming) by @inishan provides links to plenty. Also, 
+Continue giving contests and learning new concepts, and you'll be well on your way to that beautiful  🔴 red 🔴 rating on CodeForces. If you want more resources, [this awesome list](https://github.com/lnishan/awesome-competitive-programming) by @inishan provides links to plenty.
