@@ -20,7 +20,7 @@ If you're on MacOS, the easiest method is to download and install [homebrew](htt
 
 ## Windows
 
-If you've decided to stick with Windows despite reading my blatant Linux propaganda, you'll need to install a C++ compiler/runtime. Windows does not provide you with one by default, and VS Code only installs autofill and highlighting tools. Your best option, ~~apart from switching to Linux~~, is to install [minGW](https://www.mingw-w64.org). It contains almost everything you need to get C++ running on Windows. [This GFG article](https://www.geeksforgeeks.org/installing-mingw-tools-for-c-c-and-changing-environment-variable/) provides a good guide to setting things up. If you prefer a video format, [this YouTube video](https://youtu.be/j8nAHeVKL08?t=645) will walk you through the process.
+If you've decided to stick with Windows despite reading my blatant Linux propaganda, you'll need to install a C++ compiler/runtime. Windows does not provide you with one by default, and VS Code only installs autofill and highlighting tools. Your best option, ~~apart from switching to Linux~~, is to install [minGW](https://www.mingw-w64.org). It contains almost everything you need to get C++ running on Windows. [This GFG article](https://www.geeksforgeeks.org/installing-mingw-tools-for-c-c-and-changing-environment-variable/) provides a good guide to setting things up. If you prefer a video format, [this YouTube video](https://youtu.be/j8nAHeVKL08?t=645) (in Hindi) will walk you through the process.
 
 ## The other option - online compilers
 
