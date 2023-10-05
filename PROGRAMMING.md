@@ -22,7 +22,7 @@ Again, plenty of amazing resources out on the web. A few links I personally foun
 - [Learncpp.com](https://www.learncpp.com/)
 - [W3Schools](https://www.w3schools.com/cpp/)
 - [YouTube Video](https://www.youtube.com/watch?v=ZzaPdXTrSb8) (For those who prefer video)
-- [CodeWithHarry Playlist](https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&feature=shared) (Hindi videos)
+- [CodeWithHarry Playlist](https://youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&feature=shared) (Hindi videos) (watch the first 17 for C++)
 
 Practice
 --------
