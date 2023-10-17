@@ -17,7 +17,7 @@ What is CodeForces rating? It's the imaginary internet points we competitive pro
 
 The difficulty follows the same pattern - Div. 4 contests tend to have the easiest problems, while Div.1 contests are the hardest.
 
-As you've probably noticed, many of the divisions overlap. In such cases, you can participate in contest from any of the divisions you qualify for. When getting started, we'd recommend going for Div. 4 and Div. 3 contests.
+As you've probably noticed, many of the divisions overlap. In such cases, you can participate in contests from any of the divisions you qualify for. When getting started, we'd recommend going for Div. 4 and Div. 3 contests.
 
 ## Registering for contests
 
@@ -28,13 +28,13 @@ On CodeForces, problems are organised into timed _contests_. To register for a c
 Each contest generally lasts for 2-3 hours and has 6-8 problems of varying difficulty. Usually, the problems are in order of increasing difficulty. They are generally of two types:
 
 1. ICPC style:
-    - In this type of contest, every problem has the same value. Contestants are ranked baseed on their _number of problems solved_. Ties are broken by the total time penalty.
+    - In this type of contest, every problem has the same value. Contestants are ranked based on their _number of problems solved_. Ties are broken by the total time penalty.
     - **Time penalty** is a number calculated by adding up the time since the start of the contest till you solved each of the problems. Unsolved problems do not add to your time penalty.
 2. CodeForces Style:
     - In this type of contest, every problem has a different score assigned to it. Contestants are ranked _purely on score basis._
-    - The point value of every question decays over time, such that solving a problem at the end of the contest awards you far less points than solving it at the start.
+    - The point value of every question decays over time, such that solving a problem at the end of the contest awards you far fewer points than solving it at the start.
 
-In both types of contests, it is strongly recommended to start with the easiest questions first, as they award you points quickly with little time investment.
+In both types of contests, it is strongly recommended to start with the easiest questions first, as they award you points quickly for a smaller time investment.
 
 ### Submitting solutions
 
