@@ -22,6 +22,13 @@ If you're on MacOS, the easiest method is to download and install [homebrew](htt
 
 If you've decided to stick with Windows despite reading my blatant Linux propaganda, you'll need to install a C++ compiler/runtime. Windows does not provide you with one by default, and VS Code only installs autofill and highlighting tools. Your best option, ~~apart from switching to Linux~~, is to install [minGW](https://www.mingw-w64.org). It contains almost everything you need to get C++ running on Windows. [This GFG article](https://www.geeksforgeeks.org/installing-mingw-tools-for-c-c-and-changing-environment-variable/) provides a good guide to setting things up. If you prefer a video format, [this YouTube video](https://youtu.be/j8nAHeVKL08?t=645) (in Hindi) will walk you through the process.
 
+## Windows Method 2: WLS + VSCode (Recommended) 
+- Download WSL using this guide [https://learn.microsoft.com/en-us/windows/wsl/install]
+- Download VSCode using this guide [https://code.visualstudio.com/docs/setup/windows]
+- In the bottom left corner of VSCode, you will find a button that says "Open a Remote Window". Click on it and select "Open WSL Window"
+- You will now be in a Linux environment. You can install g++ using the command ```sudo apt install g++```
+- You can now start coding in C++ using VSCode in a Linux environment.
+
 ## The other option - online compilers
 
 While not recommended (since testing gets messy quickly), you can use an online C++ compiler while you're procrastinating on your minGW install. You can find plenty of these with a simple [Google search](https://www.google.com/search?rls=en&q=online+c%2B%2B+compiler&ie=UTF-8&oe=UTF-8), so I won't link any.
