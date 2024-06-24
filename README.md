@@ -1,6 +1,8 @@
 # Welcome!
 
-If you're here, that means you've decided to dip your toes into the fascinating world of competitive programming (CP). Have some ideas, but unsure how to get started? Take a seat and [dive right into these competitive resources!](SETUP.md)
+If you're here, that means you've decided to dip your toes into the fascinating world of competitive programming (CP). Have some ideas, but unsure how to get started? Take a seat and [dive right into these competitive resources!](SETUP.md) 
+
+If you're already done with setup, you can go straight to [PROGRAMMING.md](PROGRAMMING.md).
 
 ## Who this repo is for
 
